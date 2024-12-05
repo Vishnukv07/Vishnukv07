@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishnukv07
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Reactjs and powershell scripting
-- 💞️ I’m looking to collaborate on fornt end development project
+- 👀 I’m interested in Devops 
+- 🌱 I’m currently learning Python and powershell scripting
+- 💞️ I’m looking to collaborate on Devops and explore the Devops tools.
 - 📫 How to reach me linkedIn: Vishnu K V
 
 <!---
